@@ -3,40 +3,22 @@
 <h3 align="center">🚀 QA Automation Engineer | Selenium & Playwright | Tunisia 🇹🇳🌍</h3>
 
 ---
+### 💁‍♀️ About Me
 
-
-
-\### 💁‍♀️ About Me
-
-
-
-\- 👩‍💻 I’m a \*\*QA Automation Engineer\*\* with experience in testing, automation, and DevOps
-
-\- 🌐 Skilled in in \*\*Selenium\*\*, \*\*Playwright\*\*, \*\*Postman\*\*, \*\*Cucumber\*\*
-
-\- ⚙️ I automate UI, API, and email, integrated with \*\*Jenkins\*\* and \*\*GitLab CI\*\*
-
-\- 💡 Passionate about writing maintainable tests, designing reusable automation frameworks, and collaborating effectively in Agile teams
-
-
-
-> ✨ Quality isn't just about finding bugs — it's about building trust in what we deliver.
-
-
-
-
+- 👩‍💻 I’m a **QA Automation Engineer** with experience in testing, automation, and DevOps
+- 🌐 Skilled in ***Selenium**, **Playwright**, **Postman**, **Cucumber**
+- ⚙️ I automate UI, API, and email, integrated with **Jenkins** and **GitLab CI**
+- 💡 Passionate about writing maintainable tests, designing reusable automation frameworks, and collaborating effectively in Agile teams
+- ✨ Quality isn't just about finding bugs — it's about building trust in what we deliver.
 
 ---
 
-\## 🛠️ Tech Stack 
+## 🛠️ Tech Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/Testing-Playwright-informational?style=flat-square&logo=playwright"/>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium"/>
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman"/>
-  <img src="https://img.shields.io/badge/-Robot_Framework-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Behave-5A4FCF?style=flat-square"/>
 </p>
 
 <p align="center">
@@ -58,24 +40,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Methods-Agile-FCA121?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-TDD-FF4081?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-BDD-FF4081?style=flat-square"/>
   <img src="https://img.shields.io/badge/-CI/CD-4CAF50?style=flat-square&logo=gitlab"/>
   <img src="https://img.shields.io/badge/-Page_Object_Model-607D8B?style=flat-square"/>
 </p>
 
 
 ---
+## 📜 Certifications
 
-
-\## 📜 Certifications
-
-\- 🏅 \*\*ISTQB Foundation Level\*\* 
+- 🏅 **ISTQB Foundation Level** – Score: 90%  
 
 ---
 
 
-
-\### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 
 
@@ -90,38 +69,21 @@
 ---
 
 
-
-\## 📬 Contact
-
-
+## 📬 Contact
 
 <p align="center">
-
-&nbsp; <a href="https://www.linkedin.com/in/rahma-louati/">
-
-&nbsp;   <img src="https://img.shields.io/badge/LinkedIn-RahmaLouati-blue?style=flat\&logo=linkedin">
-
-&nbsp; </a>
-
-&nbsp; <br/>
-
-&nbsp; 📩 <a href="mailto:Rahmalouati873@gmail.com">Rahmalouati873@gmail.com</a>
-
+  <a href="https://www.linkedin.com/in/rahma-louati/">
+    <img src="https://img.shields.io/badge/LinkedIn-RahmaLouati-blue?style=flat&logo=linkedin">
+  </a>
+  <br/>
+  📩 <a href="mailto:Rahmalouati873@gmail.com">Rahmalouati873@gmail.com</a>
 </p>
-
-
 
 ---
 
-
-
 <p align="center">
-
-&nbsp; <em> ✨ Thanks for visiting my profile ✨ </em>
-
+  <em>✨ Thanks for visiting my profile ✨</em>
 </p>
-
-
 
 
 
