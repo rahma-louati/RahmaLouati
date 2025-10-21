@@ -6,7 +6,7 @@
 ### 💁‍♀️ About Me
 
 - 👩‍💻 I’m a **QA Automation Engineer** with experience in testing, automation, and DevOps
-- 🌐 Skilled in ***Selenium**, **Playwright**, **Postman**, **Cucumber**
+- 🌐 Skilled in **Selenium**, **Playwright**, **Postman**, **Cucumber**
 - ⚙️ I automate UI, API, and email, integrated with **Jenkins** and **GitLab CI**
 - 💡 Passionate about writing maintainable tests, designing reusable automation frameworks, and collaborating effectively in Agile teams
 - ✨ Quality isn't just about finding bugs — it's about building trust in what we deliver.
@@ -49,7 +49,7 @@
 ---
 ## 📜 Certifications
 
-- 🏅 **ISTQB Foundation Level** – Score: 90%  
+- 🏅 **ISTQB Foundation Level**
 
 ---
 
