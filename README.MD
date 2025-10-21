@@ -60,7 +60,7 @@
 
 <p align="center">
 
-&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalhiFayza\&theme=default" alt="GitHub Streak Stats"/>
+&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahma-louati\&theme=default" alt="GitHub Streak Stats"/>
 
 </p>
 
