@@ -70,7 +70,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahma-louati&show_icons=true&locale=en" alt="rahmalouati" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahma-louati&" alt="rahmalouati" /></p>
+<p>
 
 
 ---
